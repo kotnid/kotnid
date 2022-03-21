@@ -3,3 +3,4 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kotnid)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![wakatime](https://wakatime.com/badge/user/8c053ba6-8018-4b64-97db-3521376f3796.svg)](https://wakatime.com/@8c053ba6-8018-4b64-97db-3521376f3796)
 ![](https://komarev.com/ghpvc/?username=kotnid)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=htkf3linyl98lmlmo2dbiycev&cover_image=true&theme=default&bar_color=c43708&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=htkf3linyl98lmlmo2dbiycev&redirect=true)
